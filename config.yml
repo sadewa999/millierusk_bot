@@ -3,10 +3,10 @@ API_HASH: b35415778f7bf2cc6b0269d6c153c6a6
 BOT_TOKEN: 5677964080:AAFSGPzh2H7IC5j3NqWhWxPZdYZzjhQHkhQ
 
 
-MONGO_URL: 
-REDIS_URI:
-REDIS_PORT:
-REDIS_PASS:
+MONGO_URL: mongodb+srv://sadewa:<password>@cluster0.lvpatpo.mongodb.net/?retryWrites=true&w=majority
+REDIS_URI: redis-13043.c252.ap-southeast-1-1.ec2.cloud.redislabs.com:13043
+REDIS_PORT: 13043
+REDIS_PASS: AwCG8Ov0CaYvJv7e5OwIoG43iOMBqbUT
 
 SESSION_API_ID: 
 SESSION_API_HASH: 
